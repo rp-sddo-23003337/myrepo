@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Dont' know why my boss still prefers SVN.
-Creating a new branch is so quick & simple.
+Creating a new branch is so quick AND simple.
